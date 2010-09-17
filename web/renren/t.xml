@@ -1,0 +1,42 @@
+<!-- 
+ 102918 bytes ./resource/common/swf/end/GuildMc.swf?v=5ba8f9382cb87fc68c69032e259f67c1 
+  127118 bytes ./resource/common/swf/end/MallTruck.swf?v=6a6f636c466a6bc9239fabc1af766d25 
+  155033 bytes ./resource/common/swf/end/manipulater.swf?v=5906693bb3ea0d83edd884407ca8c241 
+  390140 bytes ./resource/common/swf/end/sounds.swf?v=273544a69da875a5bdda443e76b2305e 
+  497152 bytes ./resource/simplifiedchinese/swf/end/UI.swf?v=a9c575ddb078196323af9ec8ca1b0019 
+  389250 bytes MallGame.swf 
+  129970 bytes resource/common/swf/end/loadinglogo.swf 
+ total_size: 2037871
+
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<version tag="beta1.0"/>
+	
+	<resources parallel="false" use_cache="false">   <resource name="secondResouce" label="游戏素材1" url="./test_end_second_resource_list.xml?v=3236e24965d467a65a13dba65aa313bb" type="xml"/>
+   <resource name="GuildMc" label="游戏素材2" url="./resource/common/swf/end/GuildMc.swf?v=5ba8f9382cb87fc68c69032e259f67c1" type="swf"/>
+   <resource name="waiting" label="游戏素材3" url="./resource/common/swf/end/waiting.swf?v=f7a3bb078e44b13eb68108f9b5263563" type="swf"/>
+   <resource name="truck" label="游戏素材4" url="./resource/common/swf/end/MallTruck.swf?v=6a6f636c466a6bc9239fabc1af766d25" type="swf"/>
+   <resource name="magicFace" label="游戏素材5" url="./resource/common/swf/end/MagicFace.swf?v=a63e963403333729ac62dc2adf395c55" type="swf"/>
+   <resource name="manipulater" label="游戏素材6" url="./resource/common/swf/end/manipulater.swf?v=5906693bb3ea0d83edd884407ca8c241" type="swf"/>
+   <resource name="sounds" label="游戏素材7" url="./resource/common/swf/end/sounds.swf?v=273544a69da875a5bdda443e76b2305e" type="swf"/>
+   <resource name="Background" label="游戏素材8" url="./resource/common/swf/end/Background.swf?v=d65d7599930848a62f7994094180d4ae" type="swf"/>
+   <resource name="Background_new" label="游戏素材9" url="./resource/common/swf/end/Background_new.swf?v=be9daa21eb5d247be13683e7c111bc25" type="swf"/>
+   <resource name="gift" label="游戏素材10" url="./resource/common/swf/end/gift.swf?v=5d23e01b6c0afcfe44add998b601e943" type="swf"/>
+   <resource name="UI" label="游戏素材11" url="./resource/simplifiedchinese/swf/end/UI.swf?v=a9c575ddb078196323af9ec8ca1b0019" type="swf"/>
+   <resource name="xmlbin" label="游戏素材12" url="./resource/simplifiedchinese/xml/xml.bin?v=0e56017910037c7f53975047ef778281" type="bin"/>
+   <resource name="goodsIcon" label="游戏素材13" url="./resource/common/swf/end/MallGoodsIcon.swf?v=281bc75ee6151c51629d2a43e8c57009" type="swf"/>
+   <resource name="guideUrl1" label="游戏素材14" url="./test_end_guide_resource_list1.xml?v=1c3688317a99faeb385abd8ff00b2a6e" type="xml"/>
+   <resource name="guideUrl2" label="游戏素材15" url="./test_end_guide_resource_list2.xml?v=a49393060208c8b12ac9c491db25522a" type="xml"/>
+
+	</resources>
+   <main name="main" label="加载主程式" url="MallGame.swf?v=9a47d190cd2b43f75a28a64a232e543b" use_cache="false"/>
+   <progress_aspect url="resource/common/swf/end/loadinglogo.swf?v=8ab355fe2caa50e4eac1f07d753f4c26"/>
+	
+	<resource_servers>
+	 	<server name="test" purl="./" /> 
+	</resource_servers>	
+	<app_servers>
+	    <server name="test" purl="/work/mall/backend/web/public/" />
+	</app_servers>	
+</config>

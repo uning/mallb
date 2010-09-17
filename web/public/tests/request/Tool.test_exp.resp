@@ -1,0 +1,55 @@
+Array
+(
+    [u1] => Array
+        (
+            [pid] => wely111
+            [at] => 1282812075
+            [access_token] => sdhf7*T)*Y*T&$&^FOUGF&*UDIUSGf
+            [had_permissions] => 草泥马
+            [locale] => 马拉戈壁
+            [birthday] => 1987/12/22
+            [name] => 我很二：132号
+            [gender] => 1
+            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+            [updated_time] => 2012/12/22
+            [id] => 132
+            [session_key] => !#@#$%^&*()_+?:HGDS@WEDFVBNKTDCVJkL>HGFCVBNKL>
+        )
+
+    [u2] => Array
+        (
+            [pid] => wely112
+            [at] => 1282807324
+            [id] => 133
+            [access_token] => sdhf7*T)*Y*T&$&^FOUGF&*UDIUSGf
+            [name] => 我很二：133号
+            [locale] => 马拉戈壁
+            [session_key] => !#@#$%^&*()_+?:HGDS@WEDFVBNKTDCVJkL>HGFCVBNKL>
+            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+            [updated_time] => 2012/12/22
+            [had_permissions] => 草泥马
+            [gender] => 1
+            [birthday] => 1987/12/22
+        )
+
+    [tu1] => Array
+        (
+            [gem] => 181652
+            [money] => 8040385
+            [exp] => 187955
+            [zoom] => 1
+            [musicon] => off
+            [audioon] => off
+        )
+
+    [tu2] => Array
+        (
+            [gem] => 29425
+            [money] => 751410
+            [exp] => 32451
+            [zoom] => 0
+            [musicon] => off
+            [audioon] => off
+        )
+
+)

@@ -1,0 +1,26 @@
+Array
+(
+    [cid] => 250:c:4c8efaeec4f36
+    [c] => Array
+        (
+            [tag] => 92702
+            [pos] => Array
+                (
+                    [x] => 0
+                    [y] => 0
+                )
+
+            [id] => 250:c:4c8efaeec4f36
+            [goodsTag] => 10101
+        )
+
+    [s] => OK
+    [g] => Array
+        (
+            [0] => 250:g:4c8efb1989e06
+            [1] => 250:g:4c8efb198a590
+            [2] => 250:g:4c8efb198ad2e
+            [3] => 250:g:4c8efb198b4d1
+        )
+
+)

@@ -1,0 +1,177 @@
+Array
+(
+    [achieves] => 
+    [a] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 1001
+                    [is_done] => 0
+                    [finish_num] => 2586
+                )
+
+            [1] => Array
+                (
+                    [tag] => 1002
+                    [is_done] => 0
+                    [finish_num] => 2586
+                )
+
+            [2] => Array
+                (
+                    [tag] => 1003
+                    [is_done] => 0
+                    [finish_num] => 2586
+                )
+
+            [3] => Array
+                (
+                    [tag] => 1004
+                    [is_done] => 0
+                    [finish_num] => 2586
+                )
+
+            [4] => Array
+                (
+                    [tag] => 1005
+                    [is_done] => 0
+                    [finish_num] => 337
+                )
+
+            [5] => Array
+                (
+                    [tag] => 1006
+                    [is_done] => 0
+                    [finish_num] => 337
+                )
+
+            [6] => Array
+                (
+                    [tag] => 1007
+                    [is_done] => 0
+                    [finish_num] => 337
+                )
+
+            [7] => Array
+                (
+                    [tag] => 1008
+                    [is_done] => 0
+                    [finish_num] => 337
+                )
+
+            [8] => Array
+                (
+                    [tag] => 1015
+                    [is_done] => 0
+                    [finish_num] => 9
+                )
+
+            [9] => Array
+                (
+                    [tag] => 1016
+                    [is_done] => 0
+                    [finish_num] => 9
+                )
+
+            [10] => Array
+                (
+                    [tag] => 1017
+                    [is_done] => 0
+                    [finish_num] => 9
+                )
+
+            [11] => Array
+                (
+                    [tag] => 1018
+                    [is_done] => 0
+                    [finish_num] => 9
+                )
+
+            [12] => Array
+                (
+                    [tag] => 1023
+                    [is_done] => 0
+                    [finish_num] => 150
+                )
+
+            [13] => Array
+                (
+                    [tag] => 1024
+                    [is_done] => 0
+                    [finish_num] => 150
+                )
+
+            [14] => Array
+                (
+                    [tag] => 1025
+                    [is_done] => 0
+                    [finish_num] => 150
+                )
+
+            [15] => Array
+                (
+                    [tag] => 1026
+                    [is_done] => 0
+                    [finish_num] => 150
+                )
+
+            [16] => Array
+                (
+                    [tag] => 1027
+                    [is_done] => 0
+                    [finish_num] => 3
+                )
+
+            [17] => Array
+                (
+                    [tag] => 1028
+                    [is_done] => 0
+                    [finish_num] => 3
+                )
+
+            [18] => Array
+                (
+                    [tag] => 1029
+                    [is_done] => 0
+                    [finish_num] => 3
+                )
+
+            [19] => Array
+                (
+                    [tag] => 1030
+                    [is_done] => 0
+                    [finish_num] => 3
+                )
+
+            [20] => Array
+                (
+                    [tag] => 1031
+                    [is_done] => 0
+                    [finish_num] => 
+                )
+
+            [21] => Array
+                (
+                    [tag] => 1032
+                    [is_done] => 0
+                    [finish_num] => 
+                )
+
+            [22] => Array
+                (
+                    [tag] => 1033
+                    [is_done] => 0
+                    [finish_num] => 
+                )
+
+            [23] => Array
+                (
+                    [tag] => 1034
+                    [is_done] => 0
+                    [finish_num] => 
+                )
+
+        )
+
+    [s] => OK
+)

@@ -1,0 +1,148 @@
+Array
+(
+    [r] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 99505
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => bb
+                        )
+
+                    [id] => 251:o:4c8efb58b3ca1
+                )
+
+            [1] => Array
+                (
+                    [tag] => 99204
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => roo
+                        )
+
+                    [id] => 251:o:4c8efb58b4bcd
+                )
+
+            [2] => Array
+                (
+                    [tag] => 99001
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => ver0
+                        )
+
+                    [id] => 251:o:4c8efb58b5b10
+                )
+
+            [3] => Array
+                (
+                    [tag] => 99001
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => ver1
+                        )
+
+                    [id] => 251:o:4c8efb58b6a4e
+                )
+
+            [4] => Array
+                (
+                    [tag] => 96003
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 50
+                        )
+
+                    [id] => 251:o:4c8efb58b7993
+                )
+
+            [5] => Array
+                (
+                    [tag] => 96003
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 49
+                        )
+
+                    [id] => 251:o:4c8efb58b88d9
+                )
+
+            [6] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 0
+                        )
+
+                    [id] => 251:o:4c8efb58b9826
+                )
+
+            [7] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 2
+                        )
+
+                    [id] => 251:o:4c8efb58ba75c
+                )
+
+            [8] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 4
+                        )
+
+                    [id] => 251:o:4c8efb58bb698
+                )
+
+            [9] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 6
+                        )
+
+                    [id] => 251:o:4c8efb58bc5f7
+                )
+
+            [10] => Array
+                (
+                    [tag] => 60002
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 50
+                        )
+
+                    [goods] => Array
+                        (
+                            [251:g:init] => 1284438872
+                        )
+
+                    [id] => 251:o:s:4c8efb589fc18
+                    [ctime] => 1284438868
+                    [_s] => goods
+                )
+
+        )
+
+    [scale] => 3,2
+    [s] => OK
+)

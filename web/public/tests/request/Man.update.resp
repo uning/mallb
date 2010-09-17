@@ -1,0 +1,34 @@
+Array
+(
+    [s] => OK
+    [d] => Array
+        (
+            [id] => 251:#:mannual
+            [1] => Array
+                (
+                    [dtime] => 1284438882
+                )
+
+        )
+
+    [money] => 61120
+    [exp] => 300
+    [award] => Array
+        (
+            [money] => 5000
+            [exp] => 150
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [tag] => 10106
+                            [pos] => s
+                            [num] => 225
+                            [id] => 251:g:4c8efb6b5f4f1
+                        )
+
+                )
+
+        )
+
+)

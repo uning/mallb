@@ -1,0 +1,19 @@
+Array
+(
+    [award] => Array
+        (
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [tag] => 92703
+                            [pos] => s
+                            [id] => 79:c:4c7f5af2c4b9a
+                        )
+
+                )
+
+        )
+
+    [s] => OK
+)

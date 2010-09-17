@@ -1,0 +1,184 @@
+Array
+(
+    [g] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 10101
+                    [pos] => s
+                    [num] => 75
+                    [id] => 251:g:4c8efb58a0873
+                )
+
+            [1] => Array
+                (
+                    [tag] => 10101
+                    [pos] => s
+                    [num] => 75
+                    [id] => 251:g:4c8efb58a16e4
+                )
+
+            [2] => Array
+                (
+                    [tag] => 10101
+                    [pos] => s
+                    [num] => 75
+                    [id] => 251:g:4c8efb58a2610
+                )
+
+            [3] => Array
+                (
+                    [tag] => 10101
+                    [pos] => s
+                    [num] => 75
+                    [id] => 251:g:4c8efb58a3550
+                )
+
+            [4] => Array
+                (
+                    [tag] => 10101
+                    [pos] => s
+                    [num] => 75
+                    [id] => 251:g:4c8efb58a448f
+                )
+
+            [5] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58a53ce
+                )
+
+            [6] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58a66ee
+                )
+
+            [7] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58a762d
+                )
+
+            [8] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58a85a7
+                )
+
+            [9] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58a94c7
+                )
+
+            [10] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 251:g:4c8efb58aa40c
+                )
+
+            [11] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 251:g:4c8efb58ab337
+                )
+
+            [12] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 251:g:4c8efb58ac27a
+                )
+
+            [13] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 251:g:4c8efb58ad1b9
+                )
+
+            [14] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 251:g:4c8efb58ae0f6
+                )
+
+            [15] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58af041
+                )
+
+            [16] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58aff82
+                )
+
+            [17] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58b0ec2
+                )
+
+            [18] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58b1e0d
+                )
+
+            [19] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 251:g:4c8efb58b2d44
+                )
+
+            [20] => Array
+                (
+                    [id] => 251:g:init
+                    [tag] => 10106
+                    [num] => 213
+                    [stag] => 60002
+                    [stime] => 1284438772
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 251:o:s:4c8efb589fc18
+                        )
+
+                    [ctime] => 1284438868
+                )
+
+        )
+
+    [s] => OK
+)

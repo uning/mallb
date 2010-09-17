@@ -1,0 +1,23 @@
+Array
+(
+    [award] => Array
+        (
+            [money] => 10
+            [exp] => 2
+        )
+
+    [money] => 51130
+    [exp] => 2
+    [d] => Array
+        (
+            [id] => 247:#:satisfy
+            [r] => Array
+                (
+                    [1] => 1
+                )
+
+            [date] => 20100914
+        )
+
+    [s] => OK
+)

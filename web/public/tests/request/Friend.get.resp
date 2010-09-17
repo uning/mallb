@@ -1,0 +1,19 @@
+Array
+(
+    [infos] => Array
+        (
+            [0] => Array
+                (
+                    [name] => GM
+                    [icon] => http://hd45.xiaonei.com/photos/hd45/20080915/11/09/tiny_tDX1_3400c200150.jpg
+                    [pid] => 253382225
+                    [exp] => 10000
+                    [dbid] => 2
+                    [ht] => 1284438873
+                    [help_car] => 1
+                )
+
+        )
+
+    [s] => OK
+)

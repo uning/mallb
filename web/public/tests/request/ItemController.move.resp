@@ -1,0 +1,18 @@
+Array
+(
+    [247:o:s:4c8ee6cba177b] => Array
+        (
+            [name] => ·¿¼ä1x2
+            [group] => o
+            [buy_need_level] => 1
+            [can_buy] => true
+            [can_gift] => true
+            [gridWidth] => 2
+            [onlygem] => false
+            [pop] => 30
+            [type] => ro
+            [tag] => 60002
+        )
+
+    [s] => OK
+)

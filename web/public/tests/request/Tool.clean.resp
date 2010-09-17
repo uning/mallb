@@ -1,0 +1,1103 @@
+Array
+(
+    [bitems] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 99505
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => bb
+                        )
+
+                    [id] => 168:o:4c6423616a156
+                )
+
+            [1] => Array
+                (
+                    [tag] => 99204
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => roo
+                        )
+
+                    [id] => 168:o:4c6423616a547
+                )
+
+            [2] => Array
+                (
+                    [tag] => 99001
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => ver0
+                        )
+
+                    [id] => 168:o:4c6423616a92b
+                )
+
+            [3] => Array
+                (
+                    [tag] => 99001
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => ver1
+                        )
+
+                    [id] => 168:o:4c6423616ad0c
+                )
+
+            [4] => Array
+                (
+                    [tag] => 96003
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 50
+                        )
+
+                    [id] => 168:o:4c6423616b123
+                )
+
+            [5] => Array
+                (
+                    [tag] => 96003
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 49
+                        )
+
+                    [id] => 168:o:4c6423616b4e7
+                )
+
+            [6] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 0
+                        )
+
+                    [id] => 168:o:4c6423616b8cd
+                )
+
+            [7] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 2
+                        )
+
+                    [id] => 168:o:4c6423616bcac
+                )
+
+            [8] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 4
+                        )
+
+                    [id] => 168:o:4c6423616c094
+                )
+
+            [9] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 6
+                        )
+
+                    [id] => 168:o:4c6423616c485
+                )
+
+            [10] => Array
+                (
+                    [tag] => 60002
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 50
+                        )
+
+                    [id] => 168:o:s:4c64236165ef3
+                )
+
+            [11] => Array
+                (
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 49
+                        )
+
+                    [tag] => 60002
+                    [isShop] => 1
+                    [havePop] => 1
+                    [id] => 168:o:s:4c64250e7a2cc
+                )
+
+        )
+
+    [bgoods] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 10103
+                    [num] => 134
+                    [stag] => 60002
+                    [stime] => 1281631073
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 168:o:s:4c64236165ef3
+                        )
+
+                    [id] => 168:g:4c642361662c8
+                    [ctime] => 1281632947
+                )
+
+            [1] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c642361666ab
+                )
+
+            [2] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64236166aa4
+                )
+
+            [3] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64236166e75
+                )
+
+            [4] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64236167259
+                )
+
+            [5] => Array
+                (
+                    [tag] => 10106
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 168:o:s:4c64250e7a2cc
+                        )
+
+                    [num] => 46
+                    [id] => 168:g:4c6423616764d
+                    [stime] => 1281631511
+                    [stag] => 60002
+                    [ctime] => 1281632947
+                )
+
+            [6] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64236167a2a
+                )
+
+            [7] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64236167e11
+                )
+
+            [8] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64236168201
+                )
+
+            [9] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c642361685ec
+                )
+
+            [10] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c642361689d5
+                )
+
+            [11] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64236168db4
+                )
+
+            [12] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c642361691c5
+                )
+
+            [13] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c6423616959e
+                )
+
+            [14] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c6423616998c
+                )
+
+            [15] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64236169d6c
+                )
+
+            [16] => Array
+                (
+                    [tag] => 10101
+                    [pos] => s
+                    [num] => 75
+                    [id] => 168:g:4c6425060f44b
+                )
+
+        )
+
+    [aid] => 168:#:advert
+    [badverts] => Array
+        (
+            [id] => 168:#:advert
+        )
+
+    [bcars] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 92701
+                    [t] => 0
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 0
+                        )
+
+                    [id] => 168:c:4c64236165ae9
+                )
+
+        )
+
+    [bua] => Array
+        (
+            [money] => 19400
+            [gem] => 1
+            [exp] => 0
+            [compute] => 1281632947
+            [popu] => 0
+            [garage] => 1
+            [capacity] => 3,2
+            [ts] => 1
+            [lastawardtime] => 1281631073
+            [continued] => 1
+        )
+
+    [aua] => Array
+        (
+            [money] => 10000
+            [gem] => 1
+            [exp] => 0
+            [compute] => -1281632947
+            [shop_num] => 0
+            [popu] => 0
+            [garage] => 1
+            [capacity] => 3,2
+            [ts] => 1
+            [lastawardtime] => -1281631073
+            [continued] => -1
+        )
+
+    [all] => Array
+        (
+            [#] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 168:#:mannual
+                            [1] => Array
+                                (
+                                    [dtime] => 1281631494
+                                )
+
+                        )
+
+                )
+
+            [capacity] => 3,2
+            [compute] => -1281632947
+            [continued] => -1
+            [exp] => 0
+            [garage] => 1
+            [gem] => 1
+            [it] => 1281665630
+            [lastawardtime] => -1281631073
+            [money] => 10000
+            [popu] => 0
+            [shop_num] => 0
+            [total_count] => 225
+            [total_sale] => 3400
+            [ts] => 1
+            [c] => Array
+                (
+                    [0] => Array
+                        (
+                            [tag] => 92701
+                            [t] => 0
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => 0
+                                )
+
+                            [id] => 168:c:4c64aa5e8a43f
+                        )
+
+                )
+
+            [fr] => Array
+                (
+                    [0] => Array
+                        (
+                            [name] => crab1
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest01
+                            [ut] => 1281631075
+                            [id] => 168:fr:67
+                            [dbid] => 67
+                        )
+
+                    [1] => Array
+                        (
+                            [name] => crab2
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest02
+                            [ut] => 1281631075
+                            [id] => 168:fr:68
+                            [dbid] => 68
+                        )
+
+                    [2] => Array
+                        (
+                            [name] => crab3
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest03
+                            [ut] => 1281631075
+                            [id] => 168:fr:69
+                            [dbid] => 69
+                        )
+
+                    [3] => Array
+                        (
+                            [name] => crab4
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest04
+                            [ut] => 1281631075
+                            [id] => 168:fr:70
+                            [dbid] => 70
+                        )
+
+                    [4] => Array
+                        (
+                            [name] => crab5
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest05
+                            [ut] => 1281631075
+                            [id] => 168:fr:71
+                            [dbid] => 71
+                        )
+
+                    [5] => Array
+                        (
+                            [name] => crab6
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest06
+                            [ut] => 1281631075
+                            [id] => 168:fr:72
+                            [dbid] => 72
+                        )
+
+                    [6] => Array
+                        (
+                            [name] => crab7
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest07
+                            [ut] => 1281631075
+                            [id] => 168:fr:73
+                            [dbid] => 73
+                        )
+
+                    [7] => Array
+                        (
+                            [name] => crab8
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest08
+                            [ut] => 1281631075
+                            [id] => 168:fr:74
+                            [dbid] => 74
+                        )
+
+                    [8] => Array
+                        (
+                            [name] => crab9
+                            [icon] => http://hdn.xnimg.cn/photos/hdn311/20090521/1025/tiny_9b7s_40842b204236.jpg
+                            [pid] => quest09
+                            [ut] => 1281631075
+                            [id] => 168:fr:75
+                            [dbid] => 75
+                        )
+
+                )
+
+            [g] => Array
+                (
+                    [0] => Array
+                        (
+                            [tag] => 10103
+                            [num] => 180
+                            [stag] => 60002
+                            [stime] => 1281665630
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => 168:o:s:4c64aa5e962c9
+                                )
+
+                            [id] => 168:g:4c64aa5eac5c3
+                        )
+
+                    [1] => Array
+                        (
+                            [tag] => 10106
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5eb8bfa
+                        )
+
+                    [2] => Array
+                        (
+                            [tag] => 10106
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5ec4ea0
+                        )
+
+                    [3] => Array
+                        (
+                            [tag] => 10106
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5ed1139
+                        )
+
+                    [4] => Array
+                        (
+                            [tag] => 10106
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5edb909
+                        )
+
+                    [5] => Array
+                        (
+                            [tag] => 10106
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5ee9def
+                        )
+
+                    [6] => Array
+                        (
+                            [tag] => 10107
+                            [pos] => s
+                            [num] => 450
+                            [id] => 168:g:4c64aa5f012d9
+                        )
+
+                    [7] => Array
+                        (
+                            [tag] => 10107
+                            [pos] => s
+                            [num] => 450
+                            [id] => 168:g:4c64aa5f0c9ca
+                        )
+
+                    [8] => Array
+                        (
+                            [tag] => 10107
+                            [pos] => s
+                            [num] => 450
+                            [id] => 168:g:4c64aa5f17975
+                        )
+
+                    [9] => Array
+                        (
+                            [tag] => 10107
+                            [pos] => s
+                            [num] => 450
+                            [id] => 168:g:4c64aa5f25695
+                        )
+
+                    [10] => Array
+                        (
+                            [tag] => 10107
+                            [pos] => s
+                            [num] => 450
+                            [id] => 168:g:4c64aa5f320d4
+                        )
+
+                    [11] => Array
+                        (
+                            [tag] => 10108
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5f3cc71
+                        )
+
+                    [12] => Array
+                        (
+                            [tag] => 10108
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5f477fa
+                        )
+
+                    [13] => Array
+                        (
+                            [tag] => 10108
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5f55cc2
+                        )
+
+                    [14] => Array
+                        (
+                            [tag] => 10108
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5f61f51
+                        )
+
+                    [15] => Array
+                        (
+                            [tag] => 10108
+                            [pos] => s
+                            [num] => 225
+                            [id] => 168:g:4c64aa5f6f8d1
+                        )
+
+                )
+
+            [o] => Array
+                (
+                    [0] => Array
+                        (
+                            [tag] => 99505
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => bb
+                                )
+
+                            [id] => 168:o:4c64aa5f7a4a1
+                        )
+
+                    [1] => Array
+                        (
+                            [tag] => 99204
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => roo
+                                )
+
+                            [id] => 168:o:4c64aa5f8541d
+                        )
+
+                    [2] => Array
+                        (
+                            [tag] => 99001
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => ver0
+                                )
+
+                            [id] => 168:o:4c64aa5f8ffb6
+                        )
+
+                    [3] => Array
+                        (
+                            [tag] => 99001
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => ver1
+                                )
+
+                            [id] => 168:o:4c64aa5f9d19b
+                        )
+
+                    [4] => Array
+                        (
+                            [tag] => 96003
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => 50
+                                )
+
+                            [id] => 168:o:4c64aa5fa7974
+                        )
+
+                    [5] => Array
+                        (
+                            [tag] => 96003
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => 49
+                                )
+
+                            [id] => 168:o:4c64aa5fb346d
+                        )
+
+                    [6] => Array
+                        (
+                            [tag] => 71105
+                            [pos] => Array
+                                (
+                                    [y] => 50
+                                    [x] => 0
+                                )
+
+                            [id] => 168:o:4c64aa5fbdc17
+                        )
+
+                    [7] => Array
+                        (
+                            [tag] => 71105
+                            [pos] => Array
+                                (
+                                    [y] => 50
+                                    [x] => 2
+                                )
+
+                            [id] => 168:o:4c64aa5fcbd28
+                        )
+
+                    [8] => Array
+                        (
+                            [tag] => 71105
+                            [pos] => Array
+                                (
+                                    [y] => 50
+                                    [x] => 4
+                                )
+
+                            [id] => 168:o:4c64aa5fd68e6
+                        )
+
+                    [9] => Array
+                        (
+                            [tag] => 71105
+                            [pos] => Array
+                                (
+                                    [y] => 50
+                                    [x] => 6
+                                )
+
+                            [id] => 168:o:4c64aa5fe1494
+                        )
+
+                    [10] => Array
+                        (
+                            [tag] => 60002
+                            [pos] => Array
+                                (
+                                    [x] => 0
+                                    [y] => 50
+                                )
+
+                            [id] => 168:o:s:4c64aa5e962c9
+                        )
+
+                )
+
+            [t] => Array
+                (
+                    [0] => Array
+                        (
+                            [tag] => 304
+                            [ct] => 1281631074
+                            [s] => 0
+                            [sc] => 0
+                            [id] => 168:t:4c6423628b893
+                        )
+
+                    [1] => Array
+                        (
+                            [tag] => 302
+                            [ct] => 1281631074
+                            [s] => 0
+                            [sc] => 0
+                            [id] => 168:t:4c6423628bc83
+                        )
+
+                    [2] => Array
+                        (
+                            [tag] => 307
+                            [ct] => 1281631074
+                            [s] => 0
+                            [sc] => 0
+                            [id] => 168:t:4c6423628c059
+                        )
+
+                )
+
+        )
+
+    [aitems] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 99505
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => bb
+                        )
+
+                    [id] => 168:o:4c64aa5f7a4a1
+                )
+
+            [1] => Array
+                (
+                    [tag] => 99204
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => roo
+                        )
+
+                    [id] => 168:o:4c64aa5f8541d
+                )
+
+            [2] => Array
+                (
+                    [tag] => 99001
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => ver0
+                        )
+
+                    [id] => 168:o:4c64aa5f8ffb6
+                )
+
+            [3] => Array
+                (
+                    [tag] => 99001
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => ver1
+                        )
+
+                    [id] => 168:o:4c64aa5f9d19b
+                )
+
+            [4] => Array
+                (
+                    [tag] => 96003
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 50
+                        )
+
+                    [id] => 168:o:4c64aa5fa7974
+                )
+
+            [5] => Array
+                (
+                    [tag] => 96003
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 49
+                        )
+
+                    [id] => 168:o:4c64aa5fb346d
+                )
+
+            [6] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 0
+                        )
+
+                    [id] => 168:o:4c64aa5fbdc17
+                )
+
+            [7] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 2
+                        )
+
+                    [id] => 168:o:4c64aa5fcbd28
+                )
+
+            [8] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 4
+                        )
+
+                    [id] => 168:o:4c64aa5fd68e6
+                )
+
+            [9] => Array
+                (
+                    [tag] => 71105
+                    [pos] => Array
+                        (
+                            [y] => 50
+                            [x] => 6
+                        )
+
+                    [id] => 168:o:4c64aa5fe1494
+                )
+
+            [10] => Array
+                (
+                    [tag] => 60002
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 50
+                        )
+
+                    [id] => 168:o:s:4c64aa5e962c9
+                )
+
+        )
+
+    [agoods] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 10103
+                    [num] => 180
+                    [stag] => 60002
+                    [stime] => 1281665630
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 168:o:s:4c64aa5e962c9
+                        )
+
+                    [id] => 168:g:4c64aa5eac5c3
+                )
+
+            [1] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5eb8bfa
+                )
+
+            [2] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5ec4ea0
+                )
+
+            [3] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5ed1139
+                )
+
+            [4] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5edb909
+                )
+
+            [5] => Array
+                (
+                    [tag] => 10106
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5ee9def
+                )
+
+            [6] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64aa5f012d9
+                )
+
+            [7] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64aa5f0c9ca
+                )
+
+            [8] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64aa5f17975
+                )
+
+            [9] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64aa5f25695
+                )
+
+            [10] => Array
+                (
+                    [tag] => 10107
+                    [pos] => s
+                    [num] => 450
+                    [id] => 168:g:4c64aa5f320d4
+                )
+
+            [11] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5f3cc71
+                )
+
+            [12] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5f477fa
+                )
+
+            [13] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5f55cc2
+                )
+
+            [14] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5f61f51
+                )
+
+            [15] => Array
+                (
+                    [tag] => 10108
+                    [pos] => s
+                    [num] => 225
+                    [id] => 168:g:4c64aa5f6f8d1
+                )
+
+        )
+
+    [acras] => Array
+        (
+            [0] => Array
+                (
+                    [tag] => 92701
+                    [t] => 0
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 0
+                        )
+
+                    [id] => 168:c:4c64aa5e8a43f
+                )
+
+        )
+
+    [aadverts] => 
+)

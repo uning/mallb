@@ -1,0 +1,29 @@
+Array
+(
+    [type] => 2
+    [exp] => 105116
+    [award] => Array
+        (
+            [exp] => 20
+        )
+
+    [cid] => 1:c:4c89d5c6b5d46
+    [s] => OK
+    [t] => 1284378502
+    [car] => Array
+        (
+            [tag] => 92707
+            [pos] => Array
+                (
+                    [x] => 0
+                    [y] => 1
+                )
+
+            [id] => 1:c:4c89d5c6b5d46
+            [goodsTag] => 10101
+            [t] => 1284368054
+            [copolitTag] => 2003
+            [fresh] => 7
+        )
+
+)

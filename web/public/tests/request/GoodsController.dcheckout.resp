@@ -1,0 +1,157 @@
+Array
+(
+    [3:g:4c84cdcf73ed8] => Array
+        (
+            [startctime] => 1283772023
+            [gaps] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 36
+                            [1] => 1
+                        )
+
+                )
+
+            [shop] => 3:o:s:4c7772f4abfa2
+            [mydata] => Array
+                (
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 3:o:s:4c7772f4abfa2
+                        )
+
+                    [tag] => 10101
+                    [id] => 3:g:4c84cdcf73ed8
+                    [stime] => 1283771879
+                    [num] => 57
+                    [stag] => 60001
+                    [ctime] => 1283772023
+                )
+
+            [0] => Array
+                (
+                    [sell_num] => 4
+                    [endcurtime] => 1283772055
+                    [gap] => 36
+                    [pertime] => 8
+                    [ratio] => 1
+                    [left_num] => 53
+                    [basespertime] => 8
+                    [shopwidth] => 1
+                )
+
+        )
+
+    [sell] => Array
+        (
+            [10101] => 14
+        )
+
+    [3:g:4c84cdd083a9c] => Array
+        (
+            [startctime] => 1283772018
+            [gaps] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 41
+                            [1] => 1
+                        )
+
+                )
+
+            [shop] => 3:o:s:4c7773682628c
+            [mydata] => Array
+                (
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 3:o:s:4c7773682628c
+                        )
+
+                    [tag] => 10101
+                    [id] => 3:g:4c84cdd083a9c
+                    [stime] => 1283771874
+                    [num] => 57
+                    [stag] => 60001
+                    [ctime] => 1283772018
+                )
+
+            [0] => Array
+                (
+                    [sell_num] => 5
+                    [endcurtime] => 1283772058
+                    [gap] => 41
+                    [pertime] => 8
+                    [ratio] => 1
+                    [left_num] => 52
+                    [basespertime] => 8
+                    [shopwidth] => 1
+                )
+
+        )
+
+    [3:g:4c84cdd08517c] => Array
+        (
+            [startctime] => 1283772018
+            [gaps] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => 41
+                            [1] => 1
+                        )
+
+                )
+
+            [shop] => 3:o:s:4c777365ddfdf
+            [mydata] => Array
+                (
+                    [pos] => Array
+                        (
+                            [x] => 0
+                            [y] => 3:o:s:4c777365ddfdf
+                        )
+
+                    [tag] => 10101
+                    [id] => 3:g:4c84cdd08517c
+                    [stime] => 1283771874
+                    [num] => 57
+                    [stag] => 60001
+                    [ctime] => 1283772018
+                )
+
+            [0] => Array
+                (
+                    [sell_num] => 5
+                    [endcurtime] => 1283772058
+                    [gap] => 41
+                    [pertime] => 8
+                    [ratio] => 1
+                    [left_num] => 52
+                    [basespertime] => 8
+                    [shopwidth] => 1
+                )
+
+        )
+
+    [total_width] => 3
+    [popu] => 45
+    [maxpopu] => 210
+    [params] => Array
+        (
+            [popu] => 0
+            [exp] => 113592
+        )
+
+    [s] => OK
+    [income] => 42
+    [t] => 1283772059
+    [rids] => Array
+        (
+        )
+
+    [u] => 3
+)
